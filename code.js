@@ -13,3 +13,7 @@ function sayHello(name) {
     //     return "Hello, World!"
     // }
 }
+
+function isFive(input) {
+    return !!input;
+}
